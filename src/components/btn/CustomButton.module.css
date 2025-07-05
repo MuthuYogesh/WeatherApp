@@ -1,0 +1,27 @@
+.defaultStyle{
+    height: 3rem;
+    width: 15%;
+    /* padding: 5% ; */
+    border-radius: 5px;
+    border: none;
+    background-color: #204e9d;
+    box-shadow: 0px 3px 10px #112b58;
+    color: #FEFAE0;
+    font-weight: 600;
+    font-size: 18px;
+    transition: background-color 0.2s ease-in-out;
+    
+}
+
+.defaultStyle:hover{
+    background-color: #0a570d;
+    cursor: pointer;
+}
+
+.defaultStyle:active{
+    transform: translate(0px, 2px);
+}
+
+
+
+         
